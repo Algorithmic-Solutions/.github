@@ -1,5 +1,3 @@
-## Algorithms & Data Structures - A Personal Learning Journey
-
 Welcome to my repository dedicated to exploring the fascinating world of algorithms and data structures! This is a personal project where I document my self-learning journey, providing code samples and detailed explanations in an article-style format.
 
 **What You'll Find Here:**
