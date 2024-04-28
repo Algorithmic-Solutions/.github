@@ -28,7 +28,7 @@ Let's embark on this journey of advancing algorithmic solutions together!
    * **Z Algorithm:**
      - **Text Summarization:** -> [Project description]()
      - **Text Search with Highlighting:** -> [Project description]()
-     ---
+     
    * Manachers Algorithm
      - **Palindrome Finder:** -> [Project description]()
      - **Interactive Palindrome Game:** -> [Project description]()
@@ -43,7 +43,7 @@ Let's embark on this journey of advancing algorithmic solutions together!
      - **Pizza Builder (Builder Pattern):** -> [Project description]()
      - **Shape Area Calculator with Factory Method (or Prototype Pattern):** -> [Project description]()
      - **Character Creator with Abstract Factory (or Singleton Pattern):** -> [Project description]()
-     ---
+     
    * Structural
      - **Image Editor:** -> [Project description]()
 
