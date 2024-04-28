@@ -18,3 +18,39 @@ Here, you'll discover a curated collection of solutions for diverse algorithmic 
 * **Collaboration is Key (Optional):**  If you have any cool algorithm ideas or project suggestions, hit me up!  Let's brainstorm and build something awesome together.  
 
 Let's embark on this journey of advancing algorithmic solutions together!
+
+# List Algorithms : 
+
+## String Manipulation and Algorithms
+  - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/5.String-Manipulation-And-Algorithms)
+
+ **Project:**
+   * **Z Algorithm:**
+     - **Text Summarization:** -> [Project description]()
+     - **Text Search with Highlighting:** -> [Project description]()
+     ---
+   * Manachers Algorithm
+     - **Palindrome Finder:** -> [Project description]()
+     - **Interactive Palindrome Game:** -> [Project description]()
+
+---
+
+## Design Pattern
+  - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/16.Software-Design-Patterns)
+
+ **Project:**
+   * Creational:
+     - **Pizza Builder (Builder Pattern):** -> [Project description]()
+     - **Shape Area Calculator with Factory Method (or Prototype Pattern):** -> [Project description]()
+     - **Character Creator with Abstract Factory (or Singleton Pattern):** -> [Project description]()
+     ---
+   * Structural
+     - **Image Editor:** -> [Project description]()
+
+---
+
+
+
+
+
+
