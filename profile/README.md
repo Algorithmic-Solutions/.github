@@ -25,13 +25,13 @@ Let's embark on this journey of advancing algorithmic solutions together!
   - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/5.String-Manipulation-And-Algorithms)
 
  **Project:**
-   * **Z Algorithm:**
-     - **Text Summarization:** -> [Project description]()
-     - **Text Search with Highlighting:** -> [Project description]()
+   * [**Z Algorithm:**](https://github.com/Algorithmic-Solutions/Z-Algorithm)
+     - **Text Summarization:** -> [Project description](https://github.com/Algorithmic-Solutions/Z-Algorithm/tree/main/Text%20Summarization)
+     - **Text Search with Highlighting:** -> [Project description](https://github.com/Algorithmic-Solutions/Z-Algorithm/tree/main/Text%20Search%20with%20Highlighting)
      
    * Manachers Algorithm
-     - **Palindrome Finder:** -> [Project description]()
-     - **Interactive Palindrome Game:** -> [Project description]()
+     - **Palindrome Finder:** -> [Project description](#)
+     - **Interactive Palindrome Game:** -> [Project description](#)
 
 ---
 
@@ -40,9 +40,9 @@ Let's embark on this journey of advancing algorithmic solutions together!
 
  **Project:**
    * Creational:
-     - **Pizza Builder (Builder Pattern):** -> [Project description]()
-     - **Shape Area Calculator with Factory Method (or Prototype Pattern):** -> [Project description]()
-     - **Character Creator with Abstract Factory (or Singleton Pattern):** -> [Project description]()
+     - **Pizza Builder (Builder Pattern):** -> [Project description](#)
+     - **Shape Area Calculator with Factory Method (or Prototype Pattern):** -> [Project description](#)
+     - **Character Creator with Abstract Factory (or Singleton Pattern):** -> [Project description](#)
      
    * Structural
      - **Image Editor:** -> [Project description]()
