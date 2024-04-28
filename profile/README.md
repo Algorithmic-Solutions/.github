@@ -3,7 +3,7 @@ This organization serves as a showcase for your individual exploration and imple
 **A Passion Project for Algorithmic Efficiency:**
 
 Welcome! This organization serves as a platform for my individual exploration and practical implementation of various algorithms and data structures.  
-Here, you'll discover a curated collection of solutions for diverse algorithmic challenges. These solutions are built upon the foundational knowledge explored in the dedicated learning repository: [Link to your Algorithms & Data Structures Repository](https://github.com/m-mdy-m/algorithms-data-structures).
+Here, you'll discover a curated collection of solutions for diverse algorithmic challenges. These solutions are built upon the foundational knowledge explored in the dedicated learning repository: [Algorithms Data Structures](https://github.com/m-mdy-m/algorithms-data-structures).
 
 **Explore Efficient Solutions:**
 
