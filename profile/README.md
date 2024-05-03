@@ -29,7 +29,7 @@ Let's embark on this journey of advancing algorithmic solutions together!
      - **Text Summarization:** -> [Project description](https://github.com/Algorithmic-Solutions/Z-Algorithm/tree/main/Text%20Summarization)
      - **Text Search with Highlighting:** -> [Project description](https://github.com/Algorithmic-Solutions/Z-Algorithm/tree/main/Text%20Search%20with%20Highlighting)
      
-   * Manachers Algorithm
+   * [Manachers Algorithm](https://github.com/Algorithmic-Solutions/Manachers-Algorithm)
      - **Palindrome Finder:** -> [Project description](#)
      - **Interactive Palindrome Game:** -> [Project description](#)
 ---
