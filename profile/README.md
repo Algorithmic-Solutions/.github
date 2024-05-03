@@ -33,8 +33,8 @@ Let's embark on this journey of advancing algorithmic solutions together!
   - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/6.Basic-Sorting)
 
     **Algorithms:**
-    > [Selection Algorithm](https://github.com/Algorithmic-Solutions/Selection-Algorithm) - Visualization
-    > []()
+    * [Selection Algorithm](https://github.com/Algorithmic-Solutions/Selection-Algorithm) - Visualization
+    * []()
 ---
 
 ## Design Pattern
