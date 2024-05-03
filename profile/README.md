@@ -24,19 +24,15 @@ Let's embark on this journey of advancing algorithmic solutions together!
 ## String Manipulation and Algorithms
   - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/5.String-Manipulation-And-Algorithms)
 
- **Project:**
-   * [**Z Algorithm:**](https://github.com/Algorithmic-Solutions/Z-Algorithm)
-     - **Text Summarization:** -> [Project description](https://github.com/Algorithmic-Solutions/Z-Algorithm/tree/main/Text%20Summarization)
-     - **Text Search with Highlighting:** -> [Project description](https://github.com/Algorithmic-Solutions/Z-Algorithm/tree/main/Text%20Search%20with%20Highlighting)
-     
+ **Algorithms:**
+   * [Z Algorithm:](https://github.com/Algorithmic-Solutions/Z-Algorithm)
+    
    * [Manachers Algorithm](https://github.com/Algorithmic-Solutions/Manachers-Algorithm)
-     - **Palindrome Finder:** -> [Project description](#)
-     - **Interactive Palindrome Game:** -> [Project description](#)
 ---
 ## Basic-Sorting Algorithm
   - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/6.Basic-Sorting)
 
-    **Project:**
+    **Algorithms:**
     > [Selection Algorithm](https://github.com/Algorithmic-Solutions/Selection-Algorithm) - Visualization
     > []()
 ---
