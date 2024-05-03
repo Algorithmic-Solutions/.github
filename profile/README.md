@@ -24,9 +24,8 @@ Let's embark on this journey of advancing algorithmic solutions together!
 ## String Manipulation and Algorithms
   - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/5.String-Manipulation-And-Algorithms)
 
- **Algorithms:**
+   **Algorithms:**
    * [Z Algorithm:](https://github.com/Algorithmic-Solutions/Z-Algorithm)
-    
    * [Manachers Algorithm](https://github.com/Algorithmic-Solutions/Manachers-Algorithm)
 ---
 ## Basic-Sorting Algorithm
