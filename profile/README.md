@@ -28,12 +28,9 @@ Let's embark on this journey of advancing algorithmic solutions together!
      * [Z Algorithm:](https://github.com/Algorithmic-Solutions/Z-Algorithm)
      * [Manachers Algorithm](https://github.com/Algorithmic-Solutions/Manachers-Algorithm)
 ---
-## Basic-Sorting Algorithm
+## [Basic-Sorting Algorithm](https://github.com/Algorithmic-Solutions/sort-algorithms)
   - > [Explanations](https://github.com/m-mdy-m/algorithms-data-structures/tree/main/6.Basic-Sorting)
-
-    **Algorithms:**
     * [Selection Algorithm](https://github.com/Algorithmic-Solutions/Selection-Algorithm) - Visualization
-    * []()
 ---
 
 ## Design Pattern
